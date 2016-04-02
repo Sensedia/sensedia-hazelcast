@@ -3,7 +3,7 @@ package com.sensedia.model;
 import java.io.Serializable;
 
 /**
- * Created by renan on 01/04/16.
+ * Created by renanpetronilho on 01/04/16.
  */
 public class Model implements Serializable {
 
