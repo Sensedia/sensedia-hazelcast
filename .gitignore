@@ -1,0 +1,17 @@
+/target/
+.classpath
+.project
+/.settings/
+sensedia-hazelcast.iml
+sensedia-hazelcast.ipr
+sensedia-hazelcast.iws
+*.class
+*.war
+bin
+build
+target
+dist
+.idea
+.settings
+target/
+*.log
