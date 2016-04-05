@@ -1,6 +1,6 @@
 # Sensedia Hazelcast POC
 
-Prova de conceito para realização de testes utilizando HazelCast.
+Prova de conceito para realização de testes com HazelCast.
 http://hazelcast.org/
 
 - Aplicação web.
